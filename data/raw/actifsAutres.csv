@@ -1,0 +1,11 @@
+ligne,categorie,emetteur,devise,cqs,valeurMarche,valeurComptable
+ACT001,action type 1,ETF actions zone euro,EUR,,9000000.0,7500000.0
+ACT002,action type 1,Actions françaises en direct (10 lignes),EUR,,5000000.0,4600000.0
+ACT003,action type 1,ETF actions américaines,USD,,3500000.0,2600000.0
+ACT004,action type 2,Fonds de capital-investissement,EUR,,3000000.0,2800000.0
+IMM001,immobilier,Immeuble de placement (Paris),EUR,,9000000.0,6000000.0
+IMM002,immobilier,OPCI diversifié,EUR,,4000000.0,3800000.0
+DEP001,dépôt bancaire,Banque A (notée A+),EUR,2.0,7000000.0,7000000.0
+DEP002,dépôt bancaire,Banque B (notée A),EUR,2.0,4000000.0,4000000.0
+CRE001,créances,Cotisations à recevoir,EUR,,6000000.0,6000000.0
+INC001,incorporel,Logiciel de gestion,EUR,,0.0,1500000.0

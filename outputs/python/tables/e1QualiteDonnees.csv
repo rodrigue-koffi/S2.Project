@@ -1,0 +1,10 @@
+﻿fichier;controle;lignesConcernees;traitement
+population prévoyance;salaires manquants;120;imputation par la médiane de la tranche d'âge de 5 ans
+population prévoyance;"âges hors de [16 ; 70]";15;lignes écartées, signalées au gestionnaire
+invalidités en cours;identifiants en double;4;doublons supprimés
+invalidités en cours;âge atteint ou dépassé la fin de rente;1;écartées : plus aucune prestation due (passage en retraite)
+incapacités en cours;arrêts non encore déclarés dans le fichier de simulation;27;écartés : inconnus de l'assureur, couverts par la provision pour sinistres tardifs (IBNR)
+triangles santé;montants négatifs;0;aucun
+triangles santé;cellules postérieures au 30/06/2026;0;aucune
+actifs;obligations sans notation;0;aucune
+actifs;valeurs de marché négatives;0;aucune

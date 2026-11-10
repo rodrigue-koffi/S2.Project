@@ -1,0 +1,11 @@
+﻿"controle";"python";"R";"ecartRelatif"
+"fonds propres éligibles SCR";105948512,21026;105948512,21026;-3,88578058618805e-15
+"ratio SCR";2,10281220388675;2,10281220388674;-2,33146835171283e-15
+"ratio MCR";7,97956517737314;7,9795651773731;-4,10782519111308e-15
+"sensibilité (points), Baisse des taux de 50 pb";4,75744654655519;4,75744654655497;-4,66293670342566e-14
+"sensibilité (points), Hausse des taux de 50 pb";-4,51083655004179;-4,51083655004152;-5,90638649100583e-14
+"sensibilité (points), Baisse des actions de 25 %";-7,54445330832381;-7,54445330832381;0
+"sensibilité (points), Hausse des spreads d'entreprises de 50 pb";-5,41983554904792;-5,41983554904801;1,64313007644523e-14
+"sensibilité (points), Sinistralité santé +5 points de S/P";-5,16339804287309;-5,16339804287309;0
+"sensibilité (points), Reprises d'activité des invalides -20 %";-3,5169333361996;-3,51693333619978;5,04041253179821e-14
+"sensibilité (points), Sans correction pour volatilité";-1,06966867829286;-1,06966867829397;1,0378364834196e-12
